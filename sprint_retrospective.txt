@@ -1,0 +1,16 @@
+Sprint Retrospective
+
+ O que funcionou bem
+
+- Divisão de tarefas em branches separadas permitiu trabalho paralelo
+- Estimativa de esforço foi precisa para as histórias selecionadas
+
+ O que não funcionou bem
+
+- Alguns conflitos de merge ocorreram devido a alterações simultâneas
+- Falta de padronização inicial nos commits (mensagens muito genéricas)
+
+ Sugestões de melhoria
+
+- Adotar convenções para mensagens de commit 
+- Adicionar testes automatizados para evitar regressões

@@ -1,0 +1,9 @@
+Sprint Backlog
+
+Histórias selecionadas para este Sprint
+
+1. ID 1 - Atualizar página inicial com novos modelos de veículos
+   - Esforço estimado: 20 min
+
+3. ID 3 - Atualizar menu de navegação
+   - Esforço estimado: 20 min
